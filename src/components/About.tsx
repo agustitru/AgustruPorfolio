@@ -50,8 +50,8 @@ export default function About() {
         
         <div className="text-center mb-8 sm:mb-12">
           <p className="text-lg sm:text-xl font-medium text-blue-600 dark:text-blue-400 italic max-w-3xl mx-auto px-4">
-            &ldquo;Si buscas colaborar con alguien que aporte tanto profundidad técnica como pensamiento crítico y 
-            abierto, estaré encantado de conectar.&rdquo;
+            Si buscas colaborar con alguien que aporte tanto profundidad técnica como pensamiento crítico y 
+            abierto, estaré encantado de conectar.
           </p>
         </div>
 

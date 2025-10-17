@@ -84,8 +84,8 @@ export default function Contact() {
 
             <div className="pt-6">
               <p className="text-gray-700 dark:text-gray-300 italic">
-                &ldquo;Si buscas colaborar con alguien que aporte tanto profundidad técnica como pensamiento 
-                crítico y abierto, estaré encantado de conectar.&rdquo;
+                Si buscas colaborar con alguien que aporte tanto profundidad técnica como pensamiento 
+                crítico y abierto, estaré encantado de conectar.
               </p>
             </div>
           </div>
